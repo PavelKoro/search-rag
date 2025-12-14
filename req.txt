@@ -1,0 +1,8 @@
+pymilvus
+numpy
+torch
+sentence-transformers
+langchain-core
+langchain-community
+langchain-text-splitters
+pdfplumber
